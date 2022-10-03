@@ -1,0 +1,13 @@
+{
+  "name"  : "day-22/day-22",
+  "description" : "simple project",
+  "type"  : "project",
+  "keywords" : [],
+  "require" : {},
+  "require-dev" : {},
+  "autoload" : {
+    "psr-4" : {
+      "App\\" : "app//"
+    }
+  }
+}

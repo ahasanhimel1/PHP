@@ -1,0 +1,72 @@
+.banner-section{
+    height: 550px;
+    background-image: url("../img/31214.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-caption{
+    height:350px;
+    width: 550px;
+    background-color: white;
+    margin-top: 90px;
+    padding: 10px;
+}
+
+.banner-caption-title{
+
+    font-size: 60px;
+    /*font-weight: bold;*/
+}
+
+.btn{
+    border-radius: 0px;
+}
+
+.service-section{
+    background-color: #0b5ed7;
+    color:white;
+}
+
+.h-310{height: 310px!important;}
+
+.counter-section
+{
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.experience-bg
+{
+    min-height: 500px;
+    background-image: url("../img/ng-ex.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.text-experience
+{
+    color:#C5D4E9;
+    font-size: 60px;
+}
+
+.experience-margin
+{
+   margin-top: 100px;
+    padding-right: 90px;
+    padding-left: 35px;
+}
+
+.line
+{
+    width: 10%;
+    height: 3px;
+    background-color: gray;
+    margin: 10px auto ;
+
+}
+
+/*helper css*/
+/*.f-s-30 { font-size: 30px}*/

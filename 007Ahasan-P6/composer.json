@@ -1,0 +1,15 @@
+{
+  "name" : "ahasan-day21/ahasan-day21",
+  "type" : "project",
+  "description" : "A Simple Project",
+  "keywords" : [],
+  "licence" : "",
+  "require" : {},
+  "require-dev" : {},
+  "autoload" : {
+    "psr-4" : {
+      "App\\" : "app//"
+    }
+  }
+
+}

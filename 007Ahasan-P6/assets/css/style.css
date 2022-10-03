@@ -1,0 +1,15 @@
+.my-caption
+{
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0,0,0, 0.7);
+    padding-top: 150px;
+}
+
+.inner-caption
+{
+    width: 60%;
+    margin: 0 auto;
+}
